@@ -1,0 +1,9 @@
+{
+  "type": "scable:crushing",
+  "ingredient": {
+    "item": "minecraft:iron_ore"
+  },
+  "result": "scable:iron_dust",
+  "count": 3,
+  "time": 200
+}

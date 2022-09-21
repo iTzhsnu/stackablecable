@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "scable:netherite_scrap_dust"
+    },
+    {
+      "item": "scable:netherite_scrap_dust"
+    },
+    {
+      "item": "scable:netherite_scrap_dust"
+    },
+    {
+      "item": "scable:netherite_scrap_dust"
+    },
+    {
+      "tag": "forge:dusts/gold"
+    },
+    {
+      "tag": "forge:dusts/gold"
+    },
+    {
+      "tag": "forge:dusts/gold"
+    },
+    {
+      "tag": "forge:dusts/gold"
+    }
+  ],
+  "result": {
+    "item": "scable:netherite_dust",
+    "count": 1
+  }
+}

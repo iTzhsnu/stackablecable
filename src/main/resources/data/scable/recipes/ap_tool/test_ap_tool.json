@@ -1,0 +1,27 @@
+{
+  "type": "scable:ap_tool_recipe",
+  "pattern": [
+    "drd",
+    " s ",
+    " s "
+  ],
+  "key": {
+    "d": {
+      "item": "minecraft:diamond_block"
+    },
+    "r": {
+      "item": "minecraft:redstone_block"
+    },
+    "s": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": "scable:ap_tool_pickaxe_3",
+  "count": 1,
+  "Mining_Speed": 20.0,
+  "Durability": 5432,
+  "Attack_Damage": 19.0,
+  "Attack_Speed": -2.4,
+  "Item_ID": 1
+
+}

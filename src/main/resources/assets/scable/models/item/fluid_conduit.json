@@ -1,0 +1,11 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "scable:item/fluid_conduit_1k"
+  },
+  "overrides": [
+    {"predicate": {"custom_model_data": 1}, "model": "scable:item/fluid_conduit_1k"},
+    {"predicate": {"custom_model_data": 2}, "model": "scable:item/fluid_conduit_10k"},
+    {"predicate": {"custom_model_data": 3}, "model": "scable:item/fluid_conduit_100k"}
+  ]
+}

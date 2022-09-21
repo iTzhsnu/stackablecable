@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "# #",
+    "iii",
+    "#H#"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:iron_block"
+    },
+    "i": {
+      "item": "scable:iron_gear"
+    },
+    "H": {
+      "item": "minecraft:hopper"
+    }
+  },
+  "result": {
+    "item": "scable:crusher",
+    "count": 1
+  }
+}

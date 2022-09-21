@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:dusts/titanium"
+    },
+    {
+      "tag": "forge:dusts/titanium"
+    },
+    {
+      "tag": "forge:dusts/niobium"
+    }
+  ],
+  "result": {
+    "item": "scable:niobium_titanium_dust",
+    "count": 3
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "scable:niobium_titanium_block"
+    }
+  ],
+  "result": {
+    "item": "scable:niobium_titanium_ingot",
+    "count": 9
+  }
+}

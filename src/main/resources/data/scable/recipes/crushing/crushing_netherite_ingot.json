@@ -1,0 +1,9 @@
+{
+  "type": "scable:crushing",
+  "ingredient": {
+    "item": "minecraft:netherite_ingot"
+  },
+  "result": "scable:netherite_dust",
+  "count": 1,
+  "time": 200
+}

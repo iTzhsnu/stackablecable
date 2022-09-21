@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "iei",
+    "ibi",
+    "iii"
+  ],
+  "key": {
+    "i": {
+      "item": "minecraft:stone"
+    },
+    "e": {
+      "item": "minecraft:iron_trapdoor"
+    },
+    "b": {
+      "item": "minecraft:barrier"
+    }
+  },
+  "result": {
+    "item": "scable:tank",
+    "count": 1
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "scable:titanium_ingot",
+    "scable:niobium_ingot",
+    "scable:niobium_titanium_ingot"
+  ]
+}

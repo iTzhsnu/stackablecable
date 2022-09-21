@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": {"model": "scable:block/crusher", "y":  90},
+    "facing=south": {"model": "scable:block/crusher", "y": 90},
+    "facing=east": {"model": "scable:block/crusher"},
+    "facing=west": {"model": "scable:block/crusher"}
+  }
+}

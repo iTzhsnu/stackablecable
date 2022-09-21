@@ -1,0 +1,31 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "scable:tank",
+          "functions": [
+            {
+              "function": "minecraft:copy_nbt",
+              "source": "block_entity",
+              "ops": [
+                {
+                  "source": "FluidName",
+                  "target": "BlockEntityTag.FluidName",
+                  "op": "replace"
+                },
+                {
+                  "source": "Amount",
+                  "target": "BlockEntityTag.Amount",
+                  "op": "replace"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

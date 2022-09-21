@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "iti",
+    "ipi",
+    "iii"
+  ],
+  "key": {
+    "i": {
+      "item": "minecraft:iron_block"
+    },
+    "t": {
+      "item": "minecraft:iron_trapdoor"
+    },
+    "p": {
+      "item": "minecraft:piston"
+    }
+  },
+  "result": {
+    "item": "scable:compressor",
+    "count": 1
+  }
+}

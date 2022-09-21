@@ -1,0 +1,9 @@
+{
+  "type": "scable:crushing",
+  "ingredient": {
+    "item": "scable:niobium_ore"
+  },
+  "result": "scable:niobium_dust",
+  "count": 3,
+  "time": 200
+}

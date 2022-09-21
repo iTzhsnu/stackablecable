@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "scable:niobium_titanium_ingot"
+    }
+  },
+  "result": {
+    "item": "scable:niobium_titanium_block",
+    "count": 1
+  }
+}

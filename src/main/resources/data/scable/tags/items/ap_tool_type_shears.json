@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:shears",
+    "scable:wooden_shears",
+    "scable:stone_shears",
+    "scable:golden_shears",
+    "scable:diamond_shears",
+    "scable:netherite_shears",
+    "scable:emerald_shears"
+  ]
+}

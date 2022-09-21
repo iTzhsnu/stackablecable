@@ -1,0 +1,9 @@
+{
+  "type": "scable:crushing",
+  "ingredient": {
+    "item": "scable:niobium_titanium_ingot"
+  },
+  "result": "scable:niobium_titanium_dust",
+  "count": 1,
+  "time": 200
+}

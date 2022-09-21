@@ -1,0 +1,596 @@
+{
+  "multipart": [
+    {
+      "apply": {
+        "model": "scable:block/conduit_base"
+      }
+    },
+    {
+      "when": {
+        "north": "true",
+        "energy": "1"
+      },
+      "apply": {
+        "model": "scable:block/energy_conduit_side_1"
+      }
+    },
+    {
+      "when": {
+        "east": "true",
+        "energy": "1"
+      },
+      "apply": {
+        "model": "scable:block/energy_conduit_side_1",
+        "y": 90
+      }
+    },
+    {
+      "when": {
+        "south": "true",
+        "energy": "1"
+      },
+      "apply": {
+        "model": "scable:block/energy_conduit_side_1",
+        "y": 180
+      }
+    },
+    {
+      "when": {
+        "west": "true",
+        "energy": "1"
+      },
+      "apply": {
+        "model": "scable:block/energy_conduit_side_1",
+        "y": 270
+      }
+    },
+    {
+      "when": {
+        "up": "true",
+        "energy": "1"
+      },
+      "apply": {
+        "model": "scable:block/energy_conduit_side_1",
+        "x": 270
+      }
+    },
+    {
+      "when": {
+        "down": "true",
+        "energy": "1"
+      },
+      "apply": {
+        "model": "scable:block/energy_conduit_side_1",
+        "x": 90
+      }
+    },
+    {
+      "when": {
+        "north": "true",
+        "energy": "2"
+      },
+      "apply": {
+        "model": "scable:block/energy_conduit_side_2"
+      }
+    },
+    {
+      "when": {
+        "east": "true",
+        "energy": "2"
+      },
+      "apply": {
+        "model": "scable:block/energy_conduit_side_2",
+        "y": 90
+      }
+    },
+    {
+      "when": {
+        "south": "true",
+        "energy": "2"
+      },
+      "apply": {
+        "model": "scable:block/energy_conduit_side_2",
+        "y": 180
+      }
+    },
+    {
+      "when": {
+        "west": "true",
+        "energy": "2"
+      },
+      "apply": {
+        "model": "scable:block/energy_conduit_side_2",
+        "y": 270
+      }
+    },
+    {
+      "when": {
+        "up": "true",
+        "energy": "2"
+      },
+      "apply": {
+        "model": "scable:block/energy_conduit_side_2",
+        "x": 270
+      }
+    },
+    {
+      "when": {
+        "down": "true",
+        "energy": "2"
+      },
+      "apply": {
+        "model": "scable:block/energy_conduit_side_2",
+        "x": 90
+      }
+    },
+    {
+      "when": {
+        "north": "true",
+        "energy": "3"
+      },
+      "apply": {
+        "model": "scable:block/energy_conduit_side_3"
+      }
+    },
+    {
+      "when": {
+        "east": "true",
+        "energy": "3"
+      },
+      "apply": {
+        "model": "scable:block/energy_conduit_side_3",
+        "y": 90
+      }
+    },
+    {
+      "when": {
+        "south": "true",
+        "energy": "3"
+      },
+      "apply": {
+        "model": "scable:block/energy_conduit_side_3",
+        "y": 180
+      }
+    },
+    {
+      "when": {
+        "west": "true",
+        "energy": "3"
+      },
+      "apply": {
+        "model": "scable:block/energy_conduit_side_3",
+        "y": 270
+      }
+    },
+    {
+      "when": {
+        "up": "true",
+        "energy": "3"
+      },
+      "apply": {
+        "model": "scable:block/energy_conduit_side_3",
+        "x": 270
+      }
+    },
+    {
+      "when": {
+        "down": "true",
+        "energy": "3"
+      },
+      "apply": {
+        "model": "scable:block/energy_conduit_side_3",
+        "x": 90
+      }
+    },
+    {
+      "when": {
+        "north": "true",
+        "energy": "4"
+      },
+      "apply": {
+        "model": "scable:block/energy_conduit_side_4"
+      }
+    },
+    {
+      "when": {
+        "east": "true",
+        "energy": "4"
+      },
+      "apply": {
+        "model": "scable:block/energy_conduit_side_4",
+        "y": 90
+      }
+    },
+    {
+      "when": {
+        "south": "true",
+        "energy": "4"
+      },
+      "apply": {
+        "model": "scable:block/energy_conduit_side_4",
+        "y": 180
+      }
+    },
+    {
+      "when": {
+        "west": "true",
+        "energy": "4"
+      },
+      "apply": {
+        "model": "scable:block/energy_conduit_side_4",
+        "y": 270
+      }
+    },
+    {
+      "when": {
+        "up": "true",
+        "energy": "4"
+      },
+      "apply": {
+        "model": "scable:block/energy_conduit_side_4",
+        "x": 270
+      }
+    },
+    {
+      "when": {
+        "down": "true",
+        "energy": "4"
+      },
+      "apply": {
+        "model": "scable:block/energy_conduit_side_4",
+        "x": 90
+      }
+    },
+    {
+      "when": {
+        "north": "true",
+        "energy": "5"
+      },
+      "apply": {
+        "model": "scable:block/energy_conduit_side_5"
+      }
+    },
+    {
+      "when": {
+        "east": "true",
+        "energy": "5"
+      },
+      "apply": {
+        "model": "scable:block/energy_conduit_side_5",
+        "y": 90
+      }
+    },
+    {
+      "when": {
+        "south": "true",
+        "energy": "5"
+      },
+      "apply": {
+        "model": "scable:block/energy_conduit_side_5",
+        "y": 180
+      }
+    },
+    {
+      "when": {
+        "west": "true",
+        "energy": "5"
+      },
+      "apply": {
+        "model": "scable:block/energy_conduit_side_5",
+        "y": 270
+      }
+    },
+    {
+      "when": {
+        "up": "true",
+        "energy": "5"
+      },
+      "apply": {
+        "model": "scable:block/energy_conduit_side_5",
+        "x": 270
+      }
+    },
+    {
+      "when": {
+        "down": "true",
+        "energy": "5"
+      },
+      "apply": {
+        "model": "scable:block/energy_conduit_side_5",
+        "x": 90
+      }
+    },
+
+    {
+      "when": {
+        "north": "true",
+        "item": "true"
+      },
+      "apply": {
+        "model": "scable:block/item_conduit_side"
+      }
+    },
+    {
+      "when": {
+        "east": "true",
+        "item": "true"
+      },
+      "apply": {
+        "model": "scable:block/item_conduit_side",
+        "y": 90
+      }
+    },
+    {
+      "when": {
+        "south": "true",
+        "item": "true"
+      },
+      "apply": {
+        "model": "scable:block/item_conduit_side",
+        "y": 180
+      }
+    },
+    {
+      "when": {
+        "west": "true",
+        "item": "true"
+      },
+      "apply": {
+        "model": "scable:block/item_conduit_side",
+        "y": 270
+      }
+    },
+    {
+      "when": {
+        "up": "true",
+        "item": "true"
+      },
+      "apply": {
+        "model": "scable:block/item_conduit_side",
+        "x": 270
+      }
+    },
+    {
+      "when": {
+        "down": "true",
+        "item": "true"
+      },
+      "apply": {
+        "model": "scable:block/item_conduit_side",
+        "x": 90
+      }
+    },
+
+    {
+      "when": {
+        "north": "true",
+        "fluid": "1"
+      },
+      "apply": {
+        "model": "scable:block/fluid_conduit_side_1"
+      }
+    },
+    {
+      "when": {
+        "east": "true",
+        "fluid": "1"
+      },
+      "apply": {
+        "model": "scable:block/fluid_conduit_side_1",
+        "y": 90
+      }
+    },
+    {
+      "when": {
+        "south": "true",
+        "fluid": "1"
+      },
+      "apply": {
+        "model": "scable:block/fluid_conduit_side_1",
+        "y": 180
+      }
+    },
+    {
+      "when": {
+        "west": "true",
+        "fluid": "1"
+      },
+      "apply": {
+        "model": "scable:block/fluid_conduit_side_1",
+        "y": 270
+      }
+    },
+    {
+      "when": {
+        "up": "true",
+        "fluid": "1"
+      },
+      "apply": {
+        "model": "scable:block/fluid_conduit_side_1",
+        "x": 270
+      }
+    },
+    {
+      "when": {
+        "down": "true",
+        "fluid": "1"
+      },
+      "apply": {
+        "model": "scable:block/fluid_conduit_side_1",
+        "x": 90
+      }
+    },
+    {
+      "when": {
+        "north": "true",
+        "fluid": "2"
+      },
+      "apply": {
+        "model": "scable:block/fluid_conduit_side_2"
+      }
+    },
+    {
+      "when": {
+        "east": "true",
+        "fluid": "2"
+      },
+      "apply": {
+        "model": "scable:block/fluid_conduit_side_2",
+        "y": 90
+      }
+    },
+    {
+      "when": {
+        "south": "true",
+        "fluid": "2"
+      },
+      "apply": {
+        "model": "scable:block/fluid_conduit_side_2",
+        "y": 180
+      }
+    },
+    {
+      "when": {
+        "west": "true",
+        "fluid": "2"
+      },
+      "apply": {
+        "model": "scable:block/fluid_conduit_side_2",
+        "y": 270
+      }
+    },
+    {
+      "when": {
+        "up": "true",
+        "fluid": "2"
+      },
+      "apply": {
+        "model": "scable:block/fluid_conduit_side_2",
+        "x": 270
+      }
+    },
+    {
+      "when": {
+        "down": "true",
+        "fluid": "2"
+      },
+      "apply": {
+        "model": "scable:block/fluid_conduit_side_2",
+        "x": 90
+      }
+    },
+    {
+      "when": {
+        "north": "true",
+        "fluid": "3"
+      },
+      "apply": {
+        "model": "scable:block/fluid_conduit_side_3"
+      }
+    },
+    {
+      "when": {
+        "east": "true",
+        "fluid": "3"
+      },
+      "apply": {
+        "model": "scable:block/fluid_conduit_side_3",
+        "y": 90
+      }
+    },
+    {
+      "when": {
+        "south": "true",
+        "fluid": "3"
+      },
+      "apply": {
+        "model": "scable:block/fluid_conduit_side_3",
+        "y": 180
+      }
+    },
+    {
+      "when": {
+        "west": "true",
+        "fluid": "3"
+      },
+      "apply": {
+        "model": "scable:block/fluid_conduit_side_3",
+        "y": 270
+      }
+    },
+    {
+      "when": {
+        "up": "true",
+        "fluid": "3"
+      },
+      "apply": {
+        "model": "scable:block/fluid_conduit_side_3",
+        "x": 270
+      }
+    },
+    {
+      "when": {
+        "down": "true",
+        "fluid": "3"
+      },
+      "apply": {
+        "model": "scable:block/fluid_conduit_side_3",
+        "x": 90
+      }
+    },
+
+    {
+      "when": {
+        "north": "true"
+      },
+      "apply": {
+        "model": "scable:block/conduit_joint"
+      }
+    },
+    {
+      "when": {
+        "east": "true"
+      },
+      "apply": {
+        "model": "scable:block/conduit_joint",
+        "y": 90
+      }
+    },
+    {
+      "when": {
+        "south": "true"
+      },
+      "apply": {
+        "model": "scable:block/conduit_joint",
+        "y": 180
+      }
+    },
+    {
+      "when": {
+        "west": "true"
+      },
+      "apply": {
+        "model": "scable:block/conduit_joint",
+        "y": 270
+      }
+    },
+    {
+      "when": {
+        "up": "true"
+      },
+      "apply": {
+        "model": "scable:block/conduit_joint",
+        "x": 270
+      }
+    },
+    {
+      "when": {
+        "down": "true"
+      },
+      "apply": {
+        "model": "scable:block/conduit_joint",
+        "x": 90
+      }
+    }
+  ]
+}

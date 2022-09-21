@@ -1,0 +1,9 @@
+{
+  "type": "scable:crushing",
+  "ingredient": {
+    "item": "scable:titanium_ore"
+  },
+  "result": "scable:titanium_dust",
+  "count": 3,
+  "time": 200
+}

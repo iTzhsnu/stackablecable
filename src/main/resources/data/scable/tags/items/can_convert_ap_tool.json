@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "#scable:ap_tool_type_sword",
+    "#scable:ap_tool_type_pickaxe",
+    "#scable:ap_tool_type_axe",
+    "#scable:ap_tool_type_shovel",
+    "#scable:ap_tool_type_hoe",
+    "#scable:ap_tool_type_shears"
+  ]
+}

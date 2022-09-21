@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:blocks/niobium"
+    }
+  ],
+  "result": {
+    "item": "scable:niobium_ingot",
+    "count": 9
+  }
+}

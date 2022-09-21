@@ -1,0 +1,31 @@
+{
+  "replace": false,
+  "values": [
+    "scable:ap_tool_sword",
+    "scable:ap_tool_pickaxe_0",
+    "scable:ap_tool_pickaxe_1",
+    "scable:ap_tool_pickaxe_2",
+    "scable:ap_tool_pickaxe_3",
+    "scable:ap_tool_pickaxe_4",
+    "scable:ap_tool_pickaxe_5",
+    "scable:ap_tool_axe_0",
+    "scable:ap_tool_axe_1",
+    "scable:ap_tool_axe_2",
+    "scable:ap_tool_axe_3",
+    "scable:ap_tool_axe_4",
+    "scable:ap_tool_axe_5",
+    "scable:ap_tool_shovel_0",
+    "scable:ap_tool_shovel_1",
+    "scable:ap_tool_shovel_2",
+    "scable:ap_tool_shovel_3",
+    "scable:ap_tool_shovel_4",
+    "scable:ap_tool_shovel_5",
+    "scable:ap_tool_hoe_0",
+    "scable:ap_tool_hoe_1",
+    "scable:ap_tool_hoe_2",
+    "scable:ap_tool_hoe_3",
+    "scable:ap_tool_hoe_4",
+    "scable:ap_tool_hoe_5",
+    "scable:ap_tool_shears"
+  ]
+}

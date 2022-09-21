@@ -1,0 +1,9 @@
+{
+  "type": "scable:crushing",
+  "ingredient": {
+    "item": "minecraft:gold_ingot"
+  },
+  "result": "scable:gold_dust",
+  "count": 1,
+  "time": 200
+}

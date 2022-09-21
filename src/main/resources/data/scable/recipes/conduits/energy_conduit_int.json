@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#C#",
+    "iii",
+    "#C#"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:clay_ball"
+    },
+    "C": {
+      "item": "scable:nitrogen_bucket"
+    },
+    "i": {
+      "item": "scable:niobium_titanium_ingot"
+    }
+  },
+  "result": {
+    "item": "scable:energy_conduit",
+    "nbt": "{CustomModelData:5, Type: 5}",
+    "count": 8
+  }
+}

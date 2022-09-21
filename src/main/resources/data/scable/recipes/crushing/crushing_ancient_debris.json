@@ -1,0 +1,9 @@
+{
+  "type": "scable:crushing",
+  "ingredient": {
+    "item": "minecraft:ancient_debris"
+  },
+  "result": "scable:netherite_scrap_dust",
+  "count": 4,
+  "time": 200
+}

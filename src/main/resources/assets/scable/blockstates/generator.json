@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": {"model": "scable:block/generator", "y": 180},
+    "facing=south": {"model": "scable:block/generator"},
+    "facing=east": {"model": "scable:block/generator", "y": 270},
+    "facing=west": {"model": "scable:block/generator", "y":  90}
+  }
+}

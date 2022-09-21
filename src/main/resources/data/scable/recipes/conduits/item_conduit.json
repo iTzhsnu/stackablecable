@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "HRH",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:brick"
+    },
+    "H": {
+      "item": "minecraft:hopper"
+    },
+    "R": {
+      "item": "minecraft:redstone_torch"
+    }
+  },
+  "result": {
+    "item": "scable:item_conduit",
+    "count": 8
+  }
+}

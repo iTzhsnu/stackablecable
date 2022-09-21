@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "CiC",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:clay_ball"
+    },
+    "C": {
+      "item": "minecraft:coal"
+    },
+    "i": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result": {
+    "item": "scable:energy_conduit",
+    "nbt": "{Type: 1, CustomModelData: 1}",
+    "count": 8
+  }
+}
